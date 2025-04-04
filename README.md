@@ -23,34 +23,26 @@
 
 
 <div align="center">  
-<a href="https://www.instagram.com/ch4r4d4_sec/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/japa_sc__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/marcelo-machado-517774348/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
 
 <br/>
 
-### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-<!--![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;-->
+### MAIN SKILLS:)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,nestjs)](https://skillicons.dev)
 
  
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)
+### TOOLS:)
+[![My Tools](https://skillicons.dev/icons?i=vscode,git,github,obsidian,windows,linux,kali)](https://skillicons.dev)
 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+### OTHER KNOWLEDGE:)
+[![Other Knowledge](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
 
   
-### Studying in this moment:
-![Next.js](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=Express.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+### STUDYING IN THIS MOMENT:)
+[![Studying in this moment](https://skillicons.dev/icons?i=py,aws)](https://skillicons.dev)
+
 
 
 <div align="center">
