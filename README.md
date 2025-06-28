@@ -30,14 +30,14 @@
 <br/>
 
 ### MAIN SKILLS:)
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,javascript,typescript)](https://skillicons.dev)
 
  
 ### TOOLS:)
 [![My Tools](https://skillicons.dev/icons?i=vscode,git,github,obsidian,windows,linux,kali)](https://skillicons.dev)
 
 ### OTHER KNOWLEDGE:)
-[![Other Knowledge](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![Other Knowledge](https://skillicons.dev/icons?i=vite,nestjs)](https://skillicons.dev)
 
   
 ### STUDYING IN THIS MOMENT:)
