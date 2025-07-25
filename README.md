@@ -10,9 +10,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomachado01&layout=compact&hide_border=true&title_color=b33ac3&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<div align="center">
-   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67acba3ef863343482cd1d55?variant=dark" alt="roadmap.sh"/></a>
-</div>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcelomachado01&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -44,11 +41,6 @@
 [![Studying in this moment](https://skillicons.dev/icons?i=py,aws)](https://skillicons.dev)
 
 
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ch4r4d4-sec}/count.svg" /></p> 
-<br></div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF5A01&height=120&section=footer"/>
