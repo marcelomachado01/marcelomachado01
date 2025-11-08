@@ -5,7 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9AF7CA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+MARCELO;I+from+Brazil,+SC;)](https://git.io/typing-svg) 
 
 <div align="center" target="_blank">
- <img src="https://tryhackme-badges.s3.amazonaws.com/ch4r4d4.s3c.png" alt="Your Image Badge" />
+ <img src="https://tryhackme-badges.s3.amazonaws.com/ch4r4d4.s3c.png?update=1" alt="Your Image Badge" />
+ 
 </div>
 
 
